@@ -1,0 +1,6 @@
+a = 5
+b = 5
+c = 5
+print(a + b + c)
+print("hello world")
+print("how are you")
